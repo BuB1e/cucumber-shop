@@ -1,3 +1,1 @@
-# Shop Example using Cucumber
-
-[Cucumber presentation slide](https://github.com/ladyusa/cucumber-atm/blob/master/cucumber.pdf)
+# หฤษฎ์ สมบัติศิริ (Harit Sombatsiri) 6510451018
